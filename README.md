@@ -1,11 +1,16 @@
 # Insights from Loan Data by Prosper
-## by Koketso Diale
 
+## by Koketso Diale
 
 ## Dataset
 
 > The Loan Data by Prosper is a finacial dataset with 81 features and 113937 entries which details records of Borrowers and assorciated information such as their financial standing, other parties such as investors and general infomation such as their Ranking which is used to determine the likelyhood of them repaying the loan on time.
 
+## Exploration
+
+[Exploration](Part_I_exploration.ipynb)
+
+[Presentation](Part_II_slide_deck.ipynb)
 
 ## Summary of Findings
 
@@ -17,7 +22,6 @@
 
 > Most Investor capital is distributed amongst Home Owners this may be due to the correlation between the Borrower being a Home Owner and the ProsperRating which naturally allows more home owners to get the loans.
 
-
 ## Key Insights for Presentation
 
 > Prospect's Rating score favors property owners, people with a stable source of income and higher credit balances, in the exploration it was thought that this was due to longer employment durations instead of employment status.
@@ -26,3 +30,4 @@
 
 > In the Prospect Rankings, the AA tier is the minority however they are mostly situated in Canada.
 
+Full code in the repo [here]('https://github.com/Koketso-dax/prosper-data')
