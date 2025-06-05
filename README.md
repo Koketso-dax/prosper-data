@@ -30,4 +30,4 @@
 
 > In the Prospect Rankings, the AA tier is the minority however they are mostly situated in Canada.
 
-Full code in the repo [here]('https://github.com/Koketso-dax/prosper-data')
+Full code in the repo [here](https://github.com/Koketso-dax/prosper-data)
